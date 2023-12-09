@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="today_s_forecast">Today\'s Forecast</string>
+    <string name="_4_days"><![CDATA[4 Days >]]></string>
+    <string name="humidity">Humidity</string>
+    <string name="_percentage">10%</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="chance_of_rain">Chance of rain</string>
+</resources>
