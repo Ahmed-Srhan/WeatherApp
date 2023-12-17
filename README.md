@@ -10,7 +10,6 @@ is a Weather Forecast app using OpenWeatherMap API
 - Retrofit2 & OkHttp3 to handle apis requests.
 - Shared preferences to store the city name and when app exits, they are cleared
 - Data binding instead of inflating views manually view binding will take care of that.
-- Glade to load images from internet.
 - CardView, RecyclerView
 
 
